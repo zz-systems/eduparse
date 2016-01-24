@@ -3,7 +3,9 @@
 ## TL;DR
 
 This project has grown as an university finals project.
-We decided to create a simple interpreter, which allows to evaluate arithmetic expressions, builtin functions, variable management and simple console I/O
+
+We decided to create a simple interpreter, which allows to evaluate arithmetic expressions, builtin functions, variable management and simple console I/O.
+
 Also, we decided to publish our work to provide interested (students, hobbyists, etc) a small example how a simple interpreter works - out of the box.
 
 ## Lexer grammar definition:
